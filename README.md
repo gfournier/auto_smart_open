@@ -1,5 +1,7 @@
 # auto_smart_open - configurable backends for smart_open
 
+## Why ?
+
 Our goal is to have reconfigurable backends for manipulating files within an application.
 
 You write the code once, then run it with a local file system backend or switch to a S3 backend when deploying in production.
